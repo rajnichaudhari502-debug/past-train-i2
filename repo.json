@@ -1,0 +1,10 @@
+{
+  "name": "Past Train I2",
+  "description": "Custom Media Index",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "url": "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugins.json"
+    }
+  ]
+}
