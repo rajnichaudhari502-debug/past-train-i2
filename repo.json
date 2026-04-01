@@ -4,7 +4,7 @@
   "manifestVersion": 1,
   "pluginLists": [
     {
-      "url": "http://admin:123@100.74.120.10:5244/dav/timepass/plugins.json"
+      "url": "https://github.com/rajnichaudhari502-debug/past-train-i2.git"
     }
   ]
 }
