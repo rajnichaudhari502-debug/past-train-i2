@@ -1,7 +1,7 @@
 [
-  {
-    "name": "GDoodle Media",
-    "url": "http://admin:123@100.74.120.10:5244/dav/gdoodle",
-    "type": "webdav"
-  }
+{
+"name": "GDoodle Media",
+"url": "http://admin:123@100.74.120.10:5244/dav/gdoodle",
+"type": "webdav"
+}
 ]
