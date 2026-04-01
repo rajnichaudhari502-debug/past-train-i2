@@ -1,10 +1,10 @@
 {
-  "name": "PastTrainI2",
-  "description": "My Media",
-  "manifestVersion": 1,
-  "pluginLists": [
-    {
-      "url": "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugins.json"
-    }
-  ]
+"name": "PastTrainI2",
+"description": "Media",
+"manifestVersion": 1,
+"pluginLists": [
+{
+"url": "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugins.json"
+}
+]
 }
