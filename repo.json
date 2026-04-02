@@ -1,6 +1,6 @@
 {
   "name": "GDoodle Repo",
-  "description": "Custom Plugins",
+  "description": "My Custom Plugins",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/myplugins.json"
