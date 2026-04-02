@@ -3,6 +3,8 @@
     "name": "GDoodle Plugin",
     "url": "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugin.cs3",
     "tvTypes": ["Others"],
-    "version": 1
+    "language": "en",
+    "version": 1,
+    "status": 1
   }
 ]
