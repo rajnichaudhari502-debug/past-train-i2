@@ -1,16 +1,8 @@
 {
   "name": "GDoodle Repo",
-  "description": "My Plugins",
+  "description": "My Xon Repo",
   "manifestVersion": 1,
-  "pluginLists": [],
-  "plugins": [
-    {
-      "name": "GDoodle Plugin",
-      "url": "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugin.cs3",
-      "tvTypes": ["Others"],
-      "authors": ["GDoodle"],
-      "version": 1,
-      "status": 1
-    }
+  "pluginLists": [
+    "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugins.json"
   ]
 }
