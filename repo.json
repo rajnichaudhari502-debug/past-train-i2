@@ -1,6 +1,6 @@
 {
   "name": "GDoodle Repo",
-  "description": "My Personal WebDAV Plugins",
+  "description": "Custom Plugins",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/myplugins.json"
