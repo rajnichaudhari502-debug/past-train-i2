@@ -3,6 +3,6 @@
   "description": "My Personal WebDAV Plugins",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugins.json"
+    "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/myplugins.json"
   ]
 }
