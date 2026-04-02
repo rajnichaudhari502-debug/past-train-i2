@@ -2,5 +2,7 @@
   "name": "GDoodle Repo",
   "description": "My Xon Repo",
   "manifestVersion": 1,
-  "pluginLists": []
+  "pluginLists": [
+    "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugins.json"
+  ]
 }
