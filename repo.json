@@ -1,10 +1,8 @@
 {
-  "name": "PastTrainI2",
-  "description": "Media",
+  "name": "PastTrain",
+  "description": "Personal AList Media",
   "manifestVersion": 1,
   "pluginLists": [
-    {
-      "url": "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugins.json"
-    }
+    "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/plugins.json"
   ]
 }
