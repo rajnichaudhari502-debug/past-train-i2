@@ -1,11 +1,11 @@
 [
   {
-    "name": "Xon",
-    "url": "http://100.74.120.10:5244/d/gdoodle/XonProvider.cs3?sign=G58nOfqCc7y-3A46wmeDZKgdyjOGPM5-G3XDBwqhR_Q=:0",
-    "tvTypes": ["TvSeries", "Movie", "Others"],
+    "name": "Xon Alist",
+    "url": "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/XonProvider.cs3",
+    "tvTypes": ["TvSeries", "Movie"],
+    "language": "en",
     "authors": ["CNC"],
     "version": 1,
-    "status": 1,
-    "language": "en"
+    "status": 1
   }
 ]
