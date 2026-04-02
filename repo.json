@@ -1,7 +1,6 @@
 {
-  "name": "GDoodle Premium Repo",
-  "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/cnc.png",
-  "description": "Custom Xon & Alist Server",
+  "name": "GDoodle Xon Repo",
+  "description": "Premium Alist & Xon Setup",
   "manifestVersion": 1,
   "pluginLists": [],
   "plugins": [
@@ -9,11 +8,10 @@
       "name": "Xon Pro",
       "url": "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/XonProvider.cs3",
       "tvTypes": ["TvSeries", "Movie", "Others"],
-      "authors": ["GDoodle"],
+      "authors": ["CNC"],
       "version": 1,
       "status": 1,
-      "language": "en",
-      "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/cnc.png"
+      "language": "en"
     }
   ]
 }
