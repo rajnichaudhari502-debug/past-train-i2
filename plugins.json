@@ -1,11 +1,10 @@
 [
   {
     "name": "GDoodle",
-    "url": "http://100.74.120.10:5244/dav/gdoodle",
+    "url": "http://admin:admin123@100.74.120.10:5244/dav/gdoodle/plugin.jar",
     "type": "webdav",
-    "auth": "admin:123",
     "internalId": "gdoodle_alist",
-    "tvType": "Others",
+    "tvTypes": ["Others"],
     "status": 1,
     "version": 1
   }
