@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Xon",
+    "url": "https://raw.githubusercontent.com/rajnichaudhari502-debug/past-train-i2/main/XonProvider.cs3",
+    "tvTypes": ["TvSeries", "Movie", "Others"],
+    "authors": ["CNC"],
+    "version": 1,
+    "status": 1,
+    "language": "en"
+  }
+]
