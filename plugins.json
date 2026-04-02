@@ -1,12 +1,12 @@
 [
   {
     "name": "GDoodle",
-    "url": "http://admin:123@100.74.120.10:5244/dav/gdoodle",
+    "url": "http://100.74.120.10:5244/dav/gdoodle",
     "type": "webdav",
+    "auth": "admin:123",
+    "internalId": "gdoodle_alist",
     "tvType": "Others",
-    "version": 1,
     "status": 1,
-    "authors": ["PastTrain"],
-    "internalId": "gdoodle_alist"
+    "version": 1
   }
 ]
