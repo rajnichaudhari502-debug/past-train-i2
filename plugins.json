@@ -2,9 +2,7 @@
   {
     "name": "GDoodle Plugin",
     "url": "http://admin:admin123@100.74.120.10:5244/dav/gdoodle/plugin.cs3",
-    "tvTypes": ["TvSeries", "Movie", "Others"],
-    "language": "en",
-    "status": 1,
+    "tvTypes": ["Others"],
     "version": 1
   }
 ]
